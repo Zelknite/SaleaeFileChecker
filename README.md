@@ -5,3 +5,5 @@ This Compares 2 files from the SPI Analyzer function of the Saleae Logic Analyze
 and spits out the difference if they are the same size.
 
 You can input the .txt files through the command line. 
+
+I.E. python3 XXX.py YYY.txt ZZZ.txt
